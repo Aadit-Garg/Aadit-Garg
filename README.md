@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python-flask
 - 👯 I’m looking to collaborate on a blog site backed by flask
 
-- ⚡ Fun fact: In India🇮🇳 every minute 60sec passes by
+- ⚡ Fun fact: In India🇮🇳 every minute, 60sec passes by
 
 
 
