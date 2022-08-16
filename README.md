@@ -1,5 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on my Portfoli
+- 🌱 I’m currently learning python-flask
+- 👯 I’m looking to collaborate on a blog site backed by flask
+
+- ⚡ Fun fact: In India🇮🇳 every minute 60sec passes by
+
+
+
+
 <!--
 **aaditgarg17/aaditgarg17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
