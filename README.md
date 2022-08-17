@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning python-flask
 - 👯 I’m looking to collaborate on a blog site backed by flask
 
-- ⚡ Fun fact: I always learn from the mistakes of others who takes my advice
+- ⚡ Fun fact: I always learn from the mistakes of others who take my advice
+
+
 
 
 
