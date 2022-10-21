@@ -1,9 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my Portfolio and a Blog site
 - 🌱 I’m currently learning python-flask
-- 👯 I’m looking to collaborate on a blog site backed by flask
-
-- ⚡ Fun fact: I always learn from the mistakes of others who take my advice
+- ⚡ I always learn from the mistakes of others who take my advice
 
 
 
