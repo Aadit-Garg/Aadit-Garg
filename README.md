@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on my Portfolio and a Blog site
 - 🌱 I’m currently learning python-flask
 - ⚡ I always learn from the mistakes of others who take my advice
+![card](https://github.com/Aadit-Garg/Aadit-Garg/assets/69139031/02a1f246-45fb-439e-99f1-34e8f251bc37)
 
 
 
