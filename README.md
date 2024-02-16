@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadit Garg</h1>
-<h3 align="center">A passionate front-cum-back-end developer from India</h3>
+<h3 align="center">A passionate freak abut learning what will be in trend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadit-garg&label=Views&color=9c00f0&style=flat" alt="aadit-garg" /> </p>
 
