@@ -1,8 +1,7 @@
-<div align="center">
-<h1> Hi 👋, I'm Aadit Garg</h1></div>
-<div align="center">
-<h2>A passionate coding freak!</h2>
-</div>
+# Hi 👋, I'm Aadit Garg
+
+### A passionate full-stack developer with a love for creating innovative solutions
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aadit-garg&label=Profile%20Views&color=7c3aed&style=flat" alt="aadit-garg" /> 
 </p>
@@ -34,7 +33,7 @@ I'm a dedicated developer currently expanding my skills in **Flask-Sockets** and
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
@@ -49,6 +48,31 @@ I'm a dedicated developer currently expanding my skills in **Flask-Sockets** and
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
+
+---
+
+## 💼 Projects
+
+### 🎯 Project Categories
+
+#### 🎮 Complete Games
+- **Car Mania** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/Car_Mania)
+- **Wordle** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/wordle)
+
+#### 🔄 Incomplete Games
+- **Dino Game** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/%5BIncomplete%5D/Dino)
+- **Minesweeper** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/%5BIncomplete%5D/Minesweeper)
+- **Shhot Game** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/%5BIncomplete%5D/Shhot)
+- **Snake Game** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Games/%5BIncomplete%5D/Snake_game)
+
+#### 💻 Applications
+- **Notepad with SQLite** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Notepad_in_SQL)
+- **Python Personal Assistant** - [View Project](https://github.com/Aadit-Garg/Projects-saved/tree/main/Personal_Assistant)
+
+#### 📊 Data Projects
+- **Stock Tracking with Web Scraper** - [View Project](https://github.com/Aadit-Garg/stonks)
+- **Piston Animation with MatPlotLib** - [View Project](https://github.com/Aadit-Garg/Piston)
+- **RayTracing in Pygame** - [View Project](https://github.com/Aadit-Garg/raytracing)
 
 ---
 
