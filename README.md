@@ -21,7 +21,7 @@ I'm a dedicated developer currently expanding my skills in **Flask-Sockets** and
 
 - **secured 🥇1st place in Ideathon held by IIC**
 
-- **Selected for Social Winter of Code** as a contributor
+- **Selected for Social Winter of Code** as a [contributor](https://drive.google.com/u/0/drive-viewer/AKGpihYvE53_pvzYOrQaatl9oTjRMQ-BwdeCCFikRXINbYrqzl2lmXM2r0OGv9jzNzcYqc_9Pbejs2s8cdO_ZJwYyBxKeiIb2rfAkw=s1600-rw-v1)
 
 - **Shortlited for Foss Forge GGISPU held by FOSS INDIA** [certificate](https://unstop.com/certificate-preview/d821440f-2450-4868-a0fe-ae7fb6b5c9d2)
 
