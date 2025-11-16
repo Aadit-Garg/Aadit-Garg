@@ -12,6 +12,29 @@
 
 I'm a dedicated developer currently expanding my skills in **Flask-Sockets** and real-time web applications. I enjoy building projects that solve real-world problems and continuously learning new technologies to enhance my development capabilities.
 
+
+## 🏆 Some Achievements
+<p align="left">
+  <img width="360" height="184" alt="image" src="https://github.com/user-attachments/assets/48a4bdfd-7eea-4bcf-b105-4d3cb2caa4ba" />
+  <img width="186" height="146" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/8bb24233-fa41-43b2-9040-93c894d96a03" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3efaaf53-4628-444d-9095-c06d89eb4d56" />
+  <img width="390" height="120" alt="image" src="https://github.com/user-attachments/assets/9eab2af7-db1b-4342-a1a7-9f3e49e539b6" />
+  <img width="140" height="108" alt="image" src="https://github.com/user-attachments/assets/54f5205a-c380-44cd-91e0-8dbc954ae373" />
+
+</p>
+ 
+
+- **SIH 2025 Finalist** _(PS: **25177**, TEAM: **Team Aura Farmers**, Nodal Center:**GTU, Ahmedabad, Gujarat**)_
+  
+- **Secured 🥇1st place in hackathon held at BCIIT by MLH** (Bug smasher and project improvent)
+
+- **secured 🥇1st place in Ideathon held by IIC**
+
+- **Selected for Social Winter of Code** as a contributor
+
+- **Shortlited for Foss Forge GGISPU held by FOSS INDIA** [certificate](https://unstop.com/certificate-preview/d821440f-2450-4868-a0fe-ae7fb6b5c9d2)
+
+
 ## 📬 Get In Touch
 
 - **Email**: [aaditgarg17@gmail.com](mailto:aaditgarg17@gmail.com)
